@@ -1,0 +1,31 @@
+_repo: Whistler-or-The-Manly-Boy_67723
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aimwell, Walter
+    alias: Simonds, William
+    birthdate: 1822
+    deathdate: 1859
+    gutenberg_agent_id: '7840'
+    url: http://www.gutenberg.org/2009/agents/7840
+    wikipedia: https://en.wikipedia.org/wiki/William_Simonds_(author)
+description: ''
+gutenberg_issued: '2022-03-27'
+identifiers:
+  gutenberg: '67723'
+language: en
+pgterms:marc904: https://archive.org/details/whistlerormanlyb00aimwiala
+pgterms:marc905: 20200226142606aimwell
+pgterms:marc906: '1856'
+pgterms:marc907: US
+production_note: Richard Hulse, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Gould and Lincoln,1856.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Whistler: or, The Manly Boy'
+url: http://www.gutenberg.org/ebooks/67723
