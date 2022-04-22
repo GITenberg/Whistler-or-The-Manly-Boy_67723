@@ -1,5 +1,8 @@
 _repo: Whistler-or-The-Manly-Boy_67723
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67723-h/images/cover.jpg
 creator:
   author:
     agent_name: Aimwell, Walter
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7840
     wikipedia: https://en.wikipedia.org/wiki/William_Simonds_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67723#Whistler-or-The-Manly-Boy
 gutenberg_issued: '2022-03-27'
 identifiers:
   gutenberg: '67723'
